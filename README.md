@@ -17,4 +17,5 @@ T. M. Pham, R. Farrell and L. N. Tran, "Low-Complexity Approaches for MIMO Capac
 
 
 If you use our code in your research and/or software, we would appreciate citations to the following paper:
+
 T. M. Pham, R. Farrell and L. N. Tran, "Low-Complexity Approaches for MIMO Capacity with Per-Antenna Power Constraint," 2017 IEEE 85th Vehicular Technology Conference (VTC Spring), Sydney, Australia, 2017, pp. 1-7.
