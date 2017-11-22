@@ -12,7 +12,7 @@ T. M. Pham, R. Farrell and L. N. Tran, "Low-Complexity Approaches for MIMO Capac
 * NOTICE:
   - The code was built and tested on MATLAB R2013, R2015 and R2016.
   - The implementation generates results for the covariance matrix, capacity, duality gap/ relative objective error, and number of iterations. 
-* BUG REPORTS: If you find any bug, please send your feedback to m.phamminhthuy@gmail.com.
+* BUG REPORTS: If you find any bug, please send your feedback to m.phamminhthuy@gmail.com or via the website https://goo.gl/urop2o.
 * LICENSE: The code is licensed under the GPLv2.
 
 
